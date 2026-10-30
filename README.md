@@ -11,3 +11,4 @@ An interactive web application designed to feature entertainment deals, events, 
 ## Tech Stack
 - **Frontend:** HTML5, CSS3, JavaScript
 - **Deployment:** Vercel / GitHub Pages
+kwzone-site.vercel.app
